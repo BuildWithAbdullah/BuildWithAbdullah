@@ -54,7 +54,7 @@ and, where it can be, verified by machine.
 
 | Repository | What it is |
 |---|---|
-| [wcag-fix-library](https://github.com/BuildWithAbdullah/wcag-fix-library) | Failing and corrected markup for 15 WCAG 2.2 criteria. An axe-core harness in CI asserts every corrected example is clean and every failing example still fails. Six criteria are marked as not machine-detectable, with what a scanner reports on a page that plainly fails them. |
+| [wcag-fix-library](https://github.com/BuildWithAbdullah/wcag-fix-library) | Failing and corrected markup for 16 WCAG 2.2 criteria. An axe-core harness in CI asserts every corrected example is clean and every failing example still fails. Seven criteria are marked as not machine-detectable, with what a scanner reports on a page that plainly fails them. |
 | [shopify-accessibility-patterns](https://github.com/BuildWithAbdullah/shopify-accessibility-patterns) | Liquid snippets, a CSS baseline and focus management for Online Store 2.0 themes, plus what cannot be fixed at theme level and how to report it. |
 | [wix-squarespace-accessibility](https://github.com/BuildWithAbdullah/wix-squarespace-accessibility) | A tested injection layer for closed platforms: idempotent, non-destructive, observer-driven. And the argument for when not to use it. |
 | [core-web-vitals-checklist](https://github.com/BuildWithAbdullah/core-web-vitals-checklist) | Diagnosis and fix order for LCP, INP and CLS, organised around phase attribution. Field measurement included. |
