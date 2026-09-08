@@ -50,7 +50,9 @@ work.
 ## Repositories
 
 These are patterns, not client work. Everything here is generalised, runnable
-and, where it can be, verified by machine.
+and, where it can be, verified by machine. All of them are drawn from delivered
+engagements except ai-integration-patterns, which is a capability repository and
+says so in its own README.
 
 | Repository | What it is |
 |---|---|
@@ -59,6 +61,8 @@ and, where it can be, verified by machine.
 | [wix-squarespace-accessibility](https://github.com/BuildWithAbdullah/wix-squarespace-accessibility) | A tested injection layer for closed platforms: idempotent, non-destructive, observer-driven. And the argument for when not to use it. |
 | [core-web-vitals-checklist](https://github.com/BuildWithAbdullah/core-web-vitals-checklist) | Diagnosis and fix order for LCP, INP and CLS, organised around phase attribution. Field measurement included. |
 | [wordpress-security-hardening](https://github.com/BuildWithAbdullah/wordpress-security-hardening) | Hardening as must-use plugins, a live header verification script, and the reasoning behind the decisions that are judgement rather than code. |
+| [technical-seo-toolkit](https://github.com/BuildWithAbdullah/technical-seo-toolkit) | Crawlability, indexation, structured data and measurement patterns, each with a failing and a corrected artefact checked in CI. Six of the ten produce no Search Console report at all, which is the argument for the repository. |
+| [ai-integration-patterns](https://github.com/BuildWithAbdullah/ai-integration-patterns) | Transport, streaming, structured output, a tool allowlist, the trust boundary and cost ceilings for a language model behind a website. 58 tests, no dependencies, no API key needed to run them. A capability repository rather than extracted client work, and it says so. |
 
 ---
 
