@@ -47,7 +47,13 @@ work.
 
 ---
 
-## Repositories
+## Tools
+
+| Repository | What it is |
+|---|---|
+| [site-audit-cli](https://github.com/BuildWithAbdullah/site-audit-cli) | One command that audits a page for accessibility, Core Web Vitals, technical SEO and response-header security, and then reports the WCAG criteria no scanner can check. Self-contained HTML, Markdown and JSON reports, budgets and CI exit codes. 38 tests, including a fixture built correctly to prove the tool stays quiet when a page is right. |
+
+## Pattern libraries
 
 These are patterns, not client work. Everything here is generalised, runnable
 and, where it can be, verified by machine. All of them are drawn from delivered
@@ -103,5 +109,4 @@ looks like an oversight.
 
 ## Background
 
-MSCS Computer Science, FAST-NUCES. BCompSc, Government College University.
 Based in Lahore, working with clients in the US, UK, EU and Australia.
