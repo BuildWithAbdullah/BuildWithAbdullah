@@ -52,6 +52,7 @@ work.
 | Repository | What it is |
 |---|---|
 | [site-audit-cli](https://github.com/BuildWithAbdullah/site-audit-cli) | One command that audits a page for accessibility, Core Web Vitals, technical SEO and response-header security, and then reports the WCAG criteria no scanner can check. Self-contained HTML, Markdown and JSON reports, budgets and CI exit codes. 38 tests, including a fixture built correctly to prove the tool stays quiet when a page is right. |
+| [wordpress-emergency-recovery](https://github.com/BuildWithAbdullah/wordpress-emergency-recovery) | `wp-triage` reads a broken or compromised WordPress install from the filesystem and reports 58 findings across 11 check modules, each with file and line evidence, a next action, and a statement of what it does not prove. It never writes to the install, never opens a database connection and never makes a network request, and CI asserts all three rather than taking my word for it. Plus symptom to cause decision trees for the eight ways a site goes down, and the page on what to do in the first ten minutes, before anybody changes anything. |
 
 ## Pattern libraries
 
