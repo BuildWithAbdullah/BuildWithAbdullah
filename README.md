@@ -58,9 +58,9 @@ work.
 ## Pattern libraries
 
 These are patterns, not client work. Everything here is generalised, runnable
-and, where it can be, verified by machine. All of them are drawn from delivered
-engagements except ai-integration-patterns, which is a capability repository and
-says so in its own README.
+and, where it can be, verified by machine. Most are drawn from delivered
+engagements. ai-integration-patterns is a capability repository and says so in
+its own README.
 
 | Repository | What it is |
 |---|---|
