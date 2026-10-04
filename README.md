@@ -1,12 +1,17 @@
 # Abdullah Shabbir
 
-**Web Solutions Engineer. Performance, Accessibility, SEO and Security.**
+**Web engineer. I handle the technical side of websites: speed, SEO,
+accessibility, security, development and AI.**
 
 Slow website? Failed ADA audit? Hacked website? Poor Core Web Vitals? Need AI
-features or automation? Those are the problems I work on.
+features or automation? Those are the problems I work on, and have since 2023.
 
 Platform-agnostic. I fix root causes rather than symptoms, and I write
 solutions that survive the next deployment and the next developer.
+
+[workwithabdullah.dev](https://workwithabdullah.dev) &middot;
+[Webwright Labs](https://webwrightlabs.com) &middot;
+[hello@workwithabdullah.dev](mailto:hello@workwithabdullah.dev)
 
 ---
 
@@ -35,23 +40,11 @@ Plus e-commerce build and maintenance: WooCommerce, Shopify and Liquid.
 
 ---
 
-## Certifications
-
-- **DHS Trusted Tester for Section 508 and WCAG**, January 2026
-- **IAAP Web Accessibility Specialist (WAS)**, September 2025
-- **IAAP Certified Professional in Accessibility Core Competencies (CPACC)**, April 2025
-
-WAS and CPACC together form the IAAP CPWA credential. Trusted Tester is the
-qualification for United States federal and state government accessibility
-work.
-
----
-
 ## Tools
 
 | Repository | What it is |
 |---|---|
-| [site-audit-cli](https://github.com/BuildWithAbdullah/site-audit-cli) | One command that audits a page for accessibility, Core Web Vitals, technical SEO and response-header security, and then reports the WCAG criteria no scanner can check. Self-contained HTML, Markdown and JSON reports, budgets and CI exit codes. 38 tests, including a fixture built correctly to prove the tool stays quiet when a page is right. |
+| [site-audit-cli](https://github.com/BuildWithAbdullah/site-audit-cli) | One command that audits a page for accessibility, Core Web Vitals, technical SEO and response-header security, and then reports the WCAG criteria no scanner can check. Self-contained HTML, Markdown and JSON reports, budgets and CI exit codes. Every finding the tool can emit lives in one catalogue, and the suite drives 52 of its 53 entries out of real calls into the real modules and then asserts the two sets match in both directions, so the documentation cannot drift from the code. 50 tests and 351 repository assertions, including a fixture built correctly on purpose to prove the tool stays quiet when a page is right. CI runs Node 22 and 24, plus a job that installs on the exact minimum version so the supported range is tested rather than asserted. |
 | [wordpress-emergency-recovery](https://github.com/BuildWithAbdullah/wordpress-emergency-recovery) | `wp-triage` reads a broken or compromised WordPress install from the filesystem and reports 58 findings across 11 check modules, each with file and line evidence, a next action, and a statement of what it does not prove. It never writes to the install, never opens a database connection and never makes a network request, and CI asserts all three rather than taking my word for it. Plus symptom to cause decision trees for the eight ways a site goes down, and the page on what to do in the first ten minutes, before anybody changes anything. |
 | [site-migration-and-dns](https://github.com/BuildWithAbdullah/site-migration-and-dns) | `migrate-check` verifies a website migration before and after the switch: DNS zone shape, the TTL arithmetic that sets how long a rollback takes, SPF, DKIM and DMARC so mail survives a zone rebuilt at a new host, certificate coverage, redirect map coverage, mixed content, and the staging robots.txt and canonical that get shipped live. Plus a serialization aware search and replace for the byte length prefixes a plain text replace silently breaks. 74 findings, 213 tests, ten failing and corrected pairs, and a test asserting every catalogued finding is reachable. Only the collector touches the network, and CI asserts that too. |
 
@@ -110,6 +103,27 @@ looks like an oversight.
 
 ---
 
-## Background
+## Webwright Labs
 
-Based in Lahore, working with clients in the US, UK, EU and Australia.
+I run [Webwright Labs](https://webwrightlabs.com), a small web studio, and I
+lead the engineering there. I work with a small team, and I work white label for
+agencies, which means the work ships under your name and your client never hears
+mine.
+
+The repositories above are mine rather than the studio's. They are patterns
+pulled out of delivered work and generalised until nothing client-specific is
+left, which is why they can be published at all.
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| Hiring and contract work | [hello@workwithabdullah.dev](mailto:hello@workwithabdullah.dev) |
+| Studio and agency work | [hello@webwrightlabs.com](mailto:hello@webwrightlabs.com) |
+| Personal site | [workwithabdullah.dev](https://workwithabdullah.dev) |
+| Studio | [webwrightlabs.com](https://webwrightlabs.com) |
+| LinkedIn | [abdullah-shabbir-web-engineer](https://www.linkedin.com/in/abdullah-shabbir-web-engineer/) |
+
+Remote, and fully flexible to your time zone wherever you are.
