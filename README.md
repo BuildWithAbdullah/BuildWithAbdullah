@@ -11,6 +11,7 @@ solutions that survive the next deployment and the next developer.
 
 [workwithabdullah.dev](https://workwithabdullah.dev) &middot;
 [Webwright Labs](https://webwrightlabs.com) &middot;
+[Hire me on Upwork](https://www.upwork.com/freelancers/abdullahshabbir) &middot;
 [hello@workwithabdullah.dev](mailto:hello@workwithabdullah.dev)
 
 ---
@@ -124,6 +125,7 @@ left, which is why they can be published at all.
 | Studio and agency work | [hello@webwrightlabs.com](mailto:hello@webwrightlabs.com) |
 | Personal site | [workwithabdullah.dev](https://workwithabdullah.dev) |
 | Studio | [webwrightlabs.com](https://webwrightlabs.com) |
+| Upwork | [Abdullah Shabbir on Upwork](https://www.upwork.com/freelancers/abdullahshabbir) |
 | LinkedIn | [abdullah-shabbir-web-engineer](https://www.linkedin.com/in/abdullah-shabbir-web-engineer/) |
 
 Remote, and fully flexible to your time zone wherever you are.
